@@ -1,0 +1,1 @@
+# otel-sample-django-application
