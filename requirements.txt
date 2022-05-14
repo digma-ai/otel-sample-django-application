@@ -1,0 +1,9 @@
+requests==2.27.1
+opentelemetry-instrumentation-django==0.30b1
+opentelemetry-instrumentation-digma
+opentelemetry-instrumentation-logging
+opentelemetry-instrumentation-digma-django
+
+
+
+
